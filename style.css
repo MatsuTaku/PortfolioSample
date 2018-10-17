@@ -21,15 +21,11 @@ body {
     text-align: center;
 }
 
-.prog-lang {
-    background-color: rgb(166, 219, 194)
+.container {
+    float:left;
 }
 
-.content {
-    padding: 20px
-}
-
-.content h1 {
+.container h1 {
     padding: 10px 0;
     font-size: 25px;
 }
