@@ -1,7 +1,7 @@
 body {
-    background-color: rgba(252, 253, 255, 1);
-    color: rgb(78, 82, 93);
-    font-family: "Noto Sans Japanese";
+  background-color: rgba(252, 253, 255, 1);
+  color: rgb(78, 82, 93);
+  font-family: "Noto Sans Japanese";
 }
 
 .card {
@@ -11,9 +11,9 @@ body {
 }
 
 .card-title {
-    padding: 10px 0;
-    font-size: 25px;
-    text-align: center;
+  padding: 10px 0;
+  font-size: 25px;
+  text-align: center;
 }
 
 .card-body p {
@@ -38,17 +38,16 @@ body {
 }
 
 .port-title {
-    font-size:40px;
-    color: white;
-    text-align: center;
-    letter-spacing: 8px;
-    margin: 40px 0;
+  font-size:40px;
+  color: white;
+  text-align: center;
+  letter-spacing: 8px;
+  margin: 40px 0;
 }
 
 .port-description {
   color: #333333;
   text-align: center;
-  display: block;
   max-width: 540px;
   margin: 20px auto 30px;
   padding: 20px;
@@ -63,11 +62,11 @@ body {
 }
 
 .port-content-title {
-    text-align: center;
-    color: white;
-    letter-spacing: 4px;
-    font-size: 32px;
-    padding: 20px 0;
+  text-align: center;
+  color: white;
+  letter-spacing: 4px;
+  font-size: 32px;
+  padding: 20px 0;
 }
 
 .port-lang {
