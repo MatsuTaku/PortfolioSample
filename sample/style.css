@@ -16,6 +16,11 @@ body {
     text-align: center;
 }
 
+.card-body p {
+  padding-top: 10px;
+  text-align: center;
+}
+
 .text-sh {
   text-shadow: 0 1px 20px rgba(140, 146, 152, 1);
 }
@@ -47,6 +52,10 @@ body {
   max-width: 540px;
   margin: 20px auto 30px;
   padding: 20px;
+}
+
+.port-description p {
+  margin: 5px 0;
 }
 
 .port-content {
