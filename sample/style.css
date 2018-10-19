@@ -1,0 +1,82 @@
+body {
+    background-color: rgba(252, 253, 255, 1);
+    color: rgb(78, 82, 93);
+    font-family: "Noto Sans Japanese";
+}
+
+.card {
+  margin: 0 10px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #BBBBBF;
+}
+
+.card-title {
+    padding: 10px 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+.text-sh {
+  text-shadow: 0 1px 20px rgba(140, 146, 152, 1);
+}
+
+.port-header {
+  background: linear-gradient(#999999, #666666);
+  background-image: url(header-sample.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.port-header-layer {
+  background-color: rgba(30, 33, 38, 0.5);
+  padding: 30px 0;
+}
+
+.port-title {
+    font-size:40px;
+    color: white;
+    text-align: center;
+    letter-spacing: 8px;
+    margin: 40px 0;
+}
+
+.port-description {
+  color: #333333;
+  text-align: center;
+  display: block;
+  max-width: 540px;
+  margin: 20px auto 30px;
+  padding: 20px;
+}
+
+.port-content {
+  padding: 10px 20px 20px;
+}
+
+.port-content-title {
+    text-align: center;
+    color: white;
+    letter-spacing: 4px;
+    font-size: 32px;
+    padding: 20px 0;
+}
+
+.port-lang {
+  background-color: rgb(190, 162, 120);
+}
+
+.port-hoge {
+  background: linear-gradient(rgb(210, 105, 215), rgb(162, 120, 190));
+}
+
+.port-fuga {
+  background: radial-gradient(rgb(120, 210, 142), rgb(65, 215, 230));
+}
+
+footer {
+  padding: 20px 0;
+}
+
+footer a {
+  margin: 0 20px;
+}
